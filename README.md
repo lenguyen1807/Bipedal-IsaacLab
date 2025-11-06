@@ -34,7 +34,6 @@ skyentific_poclegs/
 ├── scripts/
 │   ├── train.py                         # Training script
 │   └── play.py                          # Evaluation script
-└── setup.py                             # Package installation
 ```
 
 ## Installation
